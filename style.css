@@ -1,0 +1,193 @@
+.body{
+    text-align: center;
+}
+
+.top-container {
+    background-color: #0e1a40;
+    position: relative;
+}
+
+.title-text {
+    color: #946b2d;
+    display: block;
+    margin: 50 auto 0 auto;
+    padding-top: 100px;
+    padding-bottom: 40px;
+    font-size: 80px;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    word-spacing: 1rem;
+}
+
+.subtitle-text {
+    color: #946b2d;
+    display: block;
+    font-size: 1.5rem;
+    padding-bottom: 100px;
+    word-spacing: 0.5rem;
+}
+
+.wall-lego {
+    position: absolute;
+    height: 1000px;
+    width: 900px;
+    left: 3px;
+    bottom: 190px;
+}
+
+.web {
+    font-size: 40px;
+    font-family: cursive;
+}
+
+
+.selfie {
+    border-top-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    border: 1rem inset #0e1a40;
+}
+
+#greetings {
+    color: #946b2d;
+    font-family: serif;
+    font-size: 3rem;
+    padding: 30px;
+}
+
+.intro {
+    display: block;
+    color: #222f5b;
+    padding-bottom: 70px;
+    width: 83%;
+    text-align: justify;
+    margin: auto;
+    line-height: 2;
+}
+
+.red-brick {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+
+.red-brick2 {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+.my-skills {
+    color: #946b2d;
+    font-family: serif;
+    font-size: 3rem;
+    padding-top: 70px;
+}
+
+
+.icon1 {
+    background-color: white;
+}
+
+
+.capstone1 {
+    font-family: serif;
+    color: #222f5b;
+}
+
+.certified {
+    font-family: serif;
+    color: #222f5b;
+}
+
+.resume {
+    font-family: serif;
+    color: #222f5b;
+}
+
+.skill1 {
+    color: #222f5b;
+    font-family: serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.8rem;
+}
+
+.skill2 {
+    color: #222f5b;
+    font-family: serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.8rem;
+}
+
+.skill3 {
+    color: #222f5b;
+    font-family: serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 1.8rem;
+}
+
+.contact {
+    color: #946b2d;
+    font-family: serif;
+    font-size: 3rem;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+.contact-message {
+    display: block;
+    color: #222f5b;
+    padding-bottom: 30px;
+    width: 80%;
+    text-align: justify;
+    margin: auto;
+    line-height: 2;
+}
+
+.btn {
+    align-content: center;
+    background: #222f5b;
+    background-image: linear-gradient(to bottom, #222f5b, #222f5b);
+    border-radius: 10px;
+    font-family: serif;
+    font-size: 20px;
+    color: #946b2d;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+}
+
+.bottom-container {
+    background-color: #0e1a40;
+    padding: 50px 0 20px;
+}
+
+.home1 {
+    color: #946b2d;
+    font-size: 1.2rem;
+}
+
+.LinkedIn {
+    color: #946b2d;
+    font-size: 1.2rem;
+}
+
+
+.footer2 {
+    color: white;
+}
+
+#footer3 {
+    position: relative;
+    height: 100%;
+    width: 200px;
+    overflow:initial;
+}
+
+.bricks2 {
+    position: absolute;
+    height: 500px;
+    width: 900px;
+    left: 530px;
+}
